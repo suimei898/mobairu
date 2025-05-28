@@ -1,7 +1,7 @@
 授業メモ
 05/27
 githubの設定中に誤ってsampleファイルを消してしまったので、もう一度入れなおしていた
-
+```Flutter
 import 'package:flutter/material.dart';
 
 void main() {
@@ -35,5 +35,5 @@ class _MyHomePageState extends State<MyHomePage> {
       );
     }
 }
-
+```
 を実行したがうまく動かなかった。予定だとスマホの画面が表示されるはずだった
